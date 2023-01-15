@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'flareregular';
+    src: url("/src/assets/fonts/Flare/flare-regular-webfont.woff2") format('woff2'),
+    url('/src/assets/fonts/Flare/flare-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'equinoxregular';
+    src: url('/src/assets/fonts/Equinox/equinox_regular-webfont.woff2') format('woff2'),
+    url('/src/assets/fonts/Equinox/equinox_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body{
+    background-color: #282828;
+    color:navajowhite;
+    font-family: equinoxregular, sans-serif;
+    font-size: 36px;
+}

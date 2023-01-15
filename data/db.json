@@ -1,0 +1,344 @@
+{
+  "QAEasy": [
+    {
+      "id": 1,
+      "Question": "Pytanie 1",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "a"
+      ],
+      "type": "radio"
+    },
+    {
+      "id": 2,
+      "Question": "Pytanie 2",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "b"
+      ],
+      "type": "radio"
+    },
+    {
+      "id": 3,
+      "Question": "Pytanie 3",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "c"
+      ],
+      "type": "radio"
+    },
+    {
+      "id": 4,
+      "Question": "Pytanie 4",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "d"
+      ],
+      "type": "radio"
+    },
+    {
+      "id": 5,
+      "Question": "MPytanie 1",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "a",
+        "b"
+      ],
+      "type": "box"
+    },
+    {
+      "id": 6,
+      "Question": "MPytanie 2",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "b"
+      ],
+      "type": "box"
+    },
+    {
+      "id": 7,
+      "Question": "MPytanie 3",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "type": "box"
+    },
+    {
+      "id": 8,
+      "Question": "MPytanie 4",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "c",
+        "d"
+      ],
+      "type": "box"
+    },
+    {
+      "id": 9,
+      "Question": "OPytanie 1 hehe",
+      "correct": [
+        "hehe"
+      ],
+      "type": "open"
+    },
+    {
+      "id": 10,
+      "Question": "OPytanie 2 123",
+      "correct": [
+        "123"
+      ],
+      "type": "open"
+    },
+    {
+      "id": 11,
+      "Question": "OPytanie 3 Dewi",
+      "correct": [
+        "Dewi"
+      ],
+      "type": "open"
+    },
+    {
+      "id": 12,
+      "Question": "OPytanie 4 Damian",
+      "correct": [
+        "Damian"
+      ],
+      "type": "open"
+    },
+    {
+      "id": 13,
+      "Question": "TFPytanie 1",
+      "correct": [
+        "false"
+      ],
+      "type": "TF"
+    },
+    {
+      "id": 14,
+      "Question": "TFPytanie 2",
+      "correct": [
+        "true"
+      ],
+      "type": "TF"
+    },
+    {
+      "id": 15,
+      "Question": "TFPytanie 3",
+      "correct": [
+        "false"
+      ],
+      "type": "TF"
+    },
+    {
+      "id": 16,
+      "Question": "TFPytanie 4",
+      "correct": [
+        "false"
+      ],
+      "type": "TF"
+    },
+    {
+      "id": 17,
+      "Question": "ListPytanie 1",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "a"
+      ],
+      "type": "List"
+    },
+    {
+      "id": 18,
+      "Question": "ListPytanie 2",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "b"
+      ],
+      "type": "List"
+    },
+    {
+      "id": 19,
+      "Question": "ListPytanie 3",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "c"
+      ],
+      "type": "List"
+    },
+    {
+      "id": 20,
+      "Question": "ListPytanie 4",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "d",
+      "correct": [
+        "d"
+      ],
+      "type": "List"
+    },
+    {
+      "id": 21,
+      "Question": "UzPytanie...1",
+      "correct": [
+        ""
+      ],
+      "type": "Word"
+    },
+    {
+      "id": 22,
+      "Question": "UzPytanie...2",
+      "correct": [
+        ""
+      ],
+      "type": "Word"
+    },
+    {
+      "id": 23,
+      "Question": "UzPytanie...3",
+      "correct": [
+        ""
+      ],
+      "type": "Word"
+    },
+    {
+      "id": 24,
+      "Question": "UzPytanie...4",
+      "correct": [
+        ""
+      ],
+      "type": "Word"
+    },
+    {
+      "Question": "aszxdawd",
+      "odpA": "",
+      "odpB": "",
+      "odpC": "",
+      "odpD": "",
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "id": 25
+    },
+    {
+      "Question": "adsd",
+      "odpA": "asd",
+      "odpB": "czxq",
+      "odpC": "asdgs",
+      "odpD": "asdgs",
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "id": 26
+    },
+    {
+      "Question": "piesek",
+      "correct": "to fajne zwierzę",
+      "id": 27
+    }
+  ],
+  "QAMedium": [],
+  "QAHard": [
+    {
+      "Question": "treść tesowa",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "c",
+      "correct": "",
+      "type": "radio",
+      "id": 1
+    },
+    {
+      "Question": "test 12",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "c",
+      "correct": [],
+      "type": "radio",
+      "id": 2
+    },
+    {
+      "Question": "test3",
+      "odpA": "aa",
+      "odpB": "bb",
+      "odpC": "cc",
+      "odpD": "cc",
+      "correct": "a",
+      "type": "radio",
+      "id": 3
+    },
+    {
+      "Question": "aszxdawd",
+      "odpA": "",
+      "odpB": "",
+      "odpC": "",
+      "odpD": "",
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "id": 4
+    },
+    {
+      "Question": "jedno tes",
+      "odpA": "a",
+      "odpB": "b",
+      "odpC": "c",
+      "odpD": "c",
+      "correct": "b",
+      "id": 5
+    }
+  ],
+  "Score": [
+    {"id":1,"userName": "testname1","score": 0},
+    {"id":2,"userName": "testname1","score": 100},
+    {"id":3,"userName": "testname2","score": 200},
+    {"id":4,"userName": "testname2","score": 9990}
+  ]
+}
